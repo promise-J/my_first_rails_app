@@ -12,7 +12,7 @@ end
 
 group :production do
   gem 'pg'
-end', '~> 1.4'
+end
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
 # Use SCSS for stylesheets
